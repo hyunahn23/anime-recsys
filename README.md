@@ -209,7 +209,7 @@
 
 ---
 
-> 원본 데이터셋(anime.csv, rating.csv)은 파일 용량이 커서 업로드가 불가능합니다.
+> 원본 데이터셋(anime.csv, rating.csv)은 파일 용량이 커서 업로드가 불가능합니다.<br>
 > 원본 데이터셋 관련 문의는 hyunahn23@naver.com으로 연락 부탁드립니다.
 
 ---
