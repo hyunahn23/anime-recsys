@@ -1,4 +1,4 @@
-# 애니메이션 평가 데이터를 활용한 추천 시스템
+# 애니메이션 평가 데이터를 활용한 추천 시스템 
 
 ## 프로젝트 소개
 ![Your Name](https://github.com/user-attachments/assets/6921be0b-0fb6-4592-8dd4-f8eedf11f68a)
